@@ -1,6 +1,6 @@
 ### My Resume
 
-<table><tr><td bgcolor=black>
+<table><tr><td bgcolor=cyan>
   <details>
     <summary>Test</summary>
   
