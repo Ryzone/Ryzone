@@ -1,11 +1,10 @@
 ### My Resume
 
-<table><tr><td bgcolor=cyan>
-  <details>
-    <summary>Test</summary>
-  
-  </details>
-</td></tr></table>
+<details>
+  <summary>Test</summary>
+
+
+</details>
 
 - - -
 <!--
@@ -22,4 +21,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<table><tr><td bgcolor=Black>
+  <details>
+    <summary>Test</summary>
+  
+  </details>
+</td></tr></table>
+
+|嵌套|表格|
+|---:|:---|
+|测试|可行|
+
+- - -
+
 -->
