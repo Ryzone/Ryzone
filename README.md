@@ -1,15 +1,13 @@
-<head>
-  body
-  {
-    background-color:black;
-  }
-</head>
+### My Resume
 
-
-<details>
-  <summary>Test</summary>
+<table><tr><td bgcolor=black>
+  <details>
+    <summary>Test</summary>
   
-</details>
+  </details>
+</td></tr></table>
+
+- - -
 <!--
 ### Resume
 **Ryzone/Ryzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
