@@ -24,7 +24,7 @@
 
 ### 🔗Links
 
-  * [Personal HomePage](https://ryzone.github.io)
+  * [HomePage](https://ryzone.github.io)
   * [Blog]()
 
 </details>
