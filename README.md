@@ -20,7 +20,9 @@
   
 ### What's next?
 
-~As Home~
+* ~As Home~
+* TI series
+* uC/OS
 
 ### 🔗Links
 
