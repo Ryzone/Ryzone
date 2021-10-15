@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./Style/Ryzone.css">
+
 <details>
   <summary>✨About Me...✨</summary>
   
